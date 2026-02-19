@@ -1,9 +1,5 @@
 # Federated Learning for Bladder Cancer Detection
 
-## Architecture Overview
-
-# My Project
-
 ![Demo GIF](./animation.gif)
 
 This is quite an old and so-to-say a failed project due to a failed professor and his failed methods (No Names Taken, iykyk!!), however, a lot of things to learn here.
